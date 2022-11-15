@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Web Development and App Development
 - 🌱 I’m currently learning ... JS fremework, React Native
 - 💞️ I’m looking to collaborate on ...
-- 📫 To reach me ... Mail at : arindam360@outlook.com
+- 📫 To reach me ... Mail at : test.arindam360@gmail.com

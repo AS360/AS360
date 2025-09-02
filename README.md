@@ -38,16 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-## 📊 GitHub Stats  
-
-![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AS360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AS360&layout=compact&theme=tokyonight&hide_border=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AS360&theme=tokyonight&hide_border=true)  
-
----
-
 ## 📫 Connect with Me  
 
 - 📧 Email: [arindamsaha360@gmail.com](mailto:arindamsaha360@gmail.com)  

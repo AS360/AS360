@@ -30,18 +30,9 @@
 
 ### 🔹 Tools & Others  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 📌 Featured Projects  
-
-🔹 **[Async_Await](https://github.com/AS360/Async_Await)** – Demo on JavaScript async/await  
-🔹 **[Promise_in_JS](https://github.com/AS360/Promise_in_JS)** – JavaScript promises explained  
-🔹 **[Login_With_PHP_Mysql](https://github.com/AS360/Login_With_PHP_Mysql)** – Login system with PHP and MySQL  
-🔹 **[Responsive-Cart](https://github.com/AS360/Responsive-Cart)** – A responsive shopping cart design  
 
 👉 Explore more in my [repositories](https://github.com/AS360?tab=repositories).  
 
@@ -49,8 +40,10 @@
 
 ## 📊 GitHub Stats  
 
-![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AS360&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AS360&layout=compact&theme=tokyonight&hide_border=true)  
+## 📊 GitHub Stats  
+
+![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AS360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AS360&layout=compact&theme=tokyonight&hide_border=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AS360&theme=tokyonight&hide_border=true)  
 
 ---
